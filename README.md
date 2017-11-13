@@ -38,3 +38,6 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 * Hii Wei Kai		CB151
 * Zahra
 
+
+
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
