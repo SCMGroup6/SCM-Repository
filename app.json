@@ -1,5 +1,7 @@
 {
-  "name": "Colour Game",
-  "description": "Colour Game by Group 6",
+  "name": "ColourGame",
+  "description": "SCM Group 6",
   "repository": "https://github.com/SCMGroup6/SCM-Repository.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
 }
