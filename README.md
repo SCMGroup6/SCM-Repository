@@ -36,7 +36,7 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 * Lim Jing Jie		CB15170
 * Toh Kok Cheng		CB15177
 * Hii Wei Kai		CB14155
-* Zahra   CB15
+* Zahra Syahida  CB15169
 
 
 
